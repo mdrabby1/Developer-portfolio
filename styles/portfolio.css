@@ -117,13 +117,16 @@ main {
     font-weight: 700;
     color: #474747;
 }
+
 /* Whai I Do Style */
-section{
+section {
     margin-top: 130px;
 }
-.what-i-do{
-margin-bottom: 170px;
+
+.what-i-do {
+    margin-bottom: 170px;
 }
+
 .skills-container {
     display: flex;
     gap: 24px;
@@ -146,4 +149,10 @@ margin-bottom: 170px;
 .skill-description {
     color: #757575;
 }
+
 /* resume Style */
+.section-title {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
